@@ -1,4 +1,4 @@
-observable_pattern
+Observable pattern
 ==================
 
 Simple implementation of observable patten in C
