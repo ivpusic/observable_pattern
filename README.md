@@ -12,7 +12,7 @@ Running example
 git clone git@github.com:ivpusic/observable_pattern.git
 cd observable_pattern
 make
-./observable/observable
+./bin/observable
 ```
 
 ###TODO
