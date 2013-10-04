@@ -1,4 +1,4 @@
-CC			= gcc
+CC		= gcc
 CFLAGS 		= -w
 SRC_DIR		= src
 SOURCES		= $(SRC_DIR)/observable.c $(SRC_DIR)/main.c
